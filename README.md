@@ -12,10 +12,8 @@
 
 ---
 
-## 🎮 My Contribution Game
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raasyqa/raasyqa/output/pacman.svg" />
+  <img src="https://raw.githubusercontent.com/raasyqa/raasyqa/output/pacman-dark.svg" />
 </p>
 
 ---
