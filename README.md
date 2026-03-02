@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github.png" alt="Banner"/>
+  <img src="pp.png" alt="Banner"/>
 </p>
 
 ## 🌿 About Me
