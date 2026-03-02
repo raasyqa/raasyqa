@@ -1,0 +1,23 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 */24 * * *" # update setiap 24 jam
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/pacman@v1
+        with:
+          github_user_name: raasyqa
+          outputs: |
+            dist/pacman.svg
+            dist/pacman-dark.svg
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
