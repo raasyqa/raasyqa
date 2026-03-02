@@ -11,7 +11,6 @@
 📚 Learning by building small projects  
 
 ---
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/raasyqa/raasyqa/output/pacman-dark.svg" />
 </p>
@@ -33,12 +32,6 @@
 ---
 
 ## 📊 GitHub Analytics
-
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raasyqa&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raasyqa&layout=compact&theme=tokyonight)>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=raasyqa&theme=tokyonight" alt="GitHub Streak"/>
