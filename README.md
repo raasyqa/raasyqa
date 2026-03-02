@@ -21,7 +21,7 @@
 
 ### Tools ✨
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=github,vscode&theme=light" />
 </p>
 
 ---
