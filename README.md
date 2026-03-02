@@ -1,24 +1,14 @@
 <p align="center">
-  <img src="Downloads\github.png" alt="Banner"/>
+  <img src="github.png" alt="Banner"/>
 </p>
 
 ## 🌿 About Me
 
 🎓 Informatics student at Universitas Sumatera Utara  
 💻 Currently learning Frontend Web Development  
-🌱 Focusing on HTML, CSS, and JavaScript  
+🌱 Focusing on HTML, CSS, JavaScript, PHP, and Laravel  
 🎨 Interested in clean and user-friendly interfaces  
 📚 Learning by building small projects  
-
----
-
-## 🌐 Connect with Me
-
-<p>
-  <a href="https://instagram.com/raasyqa">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
