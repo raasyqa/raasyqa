@@ -4,7 +4,7 @@
 
 ## 🌿 About Me
 
-🎓 Informatics student at Universitas Sumatera Utara  
+🎓 Information Technology Student at Universitas Sumatera Utara  
 💻 Currently learning Frontend Web Development  
 🌱 Focusing on HTML, CSS, JavaScript, PHP, and Laravel  
 🎨 Interested in clean and user-friendly interfaces  
